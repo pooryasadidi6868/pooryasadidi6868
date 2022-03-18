@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm poorya <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A fullstack ( developer from Iran</h3>
+<h3 align="center">A fullstack  developer from Iran</h3>
 
-
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
 
 - 🌱 I’m currently learning **web2 solidity**
